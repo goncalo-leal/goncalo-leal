@@ -8,6 +8,6 @@
 
 
 <a href="https://github.com/goncalo-leal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goncalo-leal&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalo-leal&theme=tokyonight&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=goncalo-leal&show_icons=true&include_all_commits=true&theme=material-palenight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalo-leal&layout=compact&theme=material-palenight" />
 </a>
