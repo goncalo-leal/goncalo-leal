@@ -1,5 +1,7 @@
 # Gonçalo Leal
 
+Studying Informatics Engineering in Aveiro University. Currently working on <a href="https://biglevel.pt/">Biglevel</a> developing Android App's with React Native and working with <a href="https://biglevel.pt/produtos/b-software/">bSoftware</a> using PHP and CodeIgniter and SQL.
+
 <hr>
 
 ### Contact me:
